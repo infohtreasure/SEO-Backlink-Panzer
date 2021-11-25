@@ -30,5 +30,8 @@ Easy Websites where you can post random shi' and promote your website  <br />
 Website Traffic Bot that use HTTP/S Proxies  <br />
 Same as: https://github.com/cuciuu/Website-Traffic-Bot-with-HTTP-S-Proxies  <br />
 
+# How to Compile
+https://www.youtube.com/watch?v=Kd28-60ujnk <br />
+
 Have fun with it, made it for fun. If you need help with anything email me / add me on discord.  <br />
 https://github.com/cuciuu/how-to-reach-me  <br />
